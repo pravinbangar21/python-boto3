@@ -1,0 +1,9 @@
+C:\Users\Admin\AppData\Local\Programs\Python\Python310
+
+ C:\Users\Admin\.envBoto3\Scripts\python.exe .\pravin\11.py
+
+ 
+  -- -----------
+   1 .\.envBoto3\Scripts\activate.ps1
+   2 pip install boto3
+   3 pwd
